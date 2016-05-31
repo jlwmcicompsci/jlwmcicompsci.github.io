@@ -93,9 +93,9 @@ nav#second ul li a:hover {
 body h1 {
 	margin-top: 3em;
     border: 8px #283747;
+	border-bottom-style: solid;
     outline-style: double;
     outline-color: #95A5A6;
 	text-align: center;
-	border-color: #95A5A6;
 }
 
