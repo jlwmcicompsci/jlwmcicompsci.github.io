@@ -93,7 +93,7 @@ nav#second ul li a:hover {
 body h1 {
 	margin-top: 3em;
     border: 8px #283747;
-	border-bottom-style: solid;
+	border-bottom-style: dashed;
     border-left-style: double;
 	border-right-style: double;
     border-color: #95A5A6;
