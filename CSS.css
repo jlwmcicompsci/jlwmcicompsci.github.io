@@ -90,10 +90,10 @@ nav#second ul li a:hover {
     background-color: #111;
 }
 
-h2 {
+body h {
     boarder: 2px #283747;
     outset-outline-style: double;
     outset-outline-color: #95A5A6;
-	width: 10%;
+	width: 20%;
 }
 
