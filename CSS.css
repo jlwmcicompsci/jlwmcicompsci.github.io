@@ -91,9 +91,10 @@ nav#second ul li a:hover {
 }
 
 body h1 {
-    border: 2px #283747;
+	margin-top: 3em;
+    border: 8px #283747;
     outline-style: double;
     outline-color: #95A5A6;
-	width: 20%;
+	width: 10%;
 }
 
