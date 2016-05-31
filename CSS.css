@@ -91,9 +91,9 @@ nav#second ul li a:hover {
 }
 
 body h1 {
-    boarder: 2px #283747;
-    outset-outline-style: double;
-    outset-outline-color: #95A5A6;
+    border: 2px #283747;
+    outline-style: double;
+    outline-color: #95A5A6;
 	width: 20%;
 }
 
