@@ -37,6 +37,36 @@ body nav#first ul li a:hover {
     background-color: #111;
 }
 
+body h1 {
+	margin-top: 1em;
+    border: 8px #283747;
+	border-bottom-style: dashed;
+    border-left-style: double;
+	border-right-style: double;
+    border-color: #95A5A6;
+	text-align: center;
+}
+
+body p {
+	font-family: "Bradley Hand ITC", Times, serif;
+	font-size: 22px;
+}
+
+body h1 {
+	font-family: "Bauhaus 93", Times, serif;
+	font-size: 48px;
+}
+
+body h2 {
+	font-family: "Castellar", Times, serif;
+	font-size: 28px;
+}
+
+p#changecolor a {
+	color: white;
+}
+
+
 
 nav#first ul {
     list-style-type: none;
@@ -49,7 +79,6 @@ nav#first ul {
     top: 0;
     width: 100%;
 }
-
 
 nav#first ul {
     list-style-type: none;
@@ -79,6 +108,8 @@ nav#first ul li a:hover {
     background-color: #111;
 }
 
+
+
 nav#second ul {
     
     list-style-type: none;
@@ -104,32 +135,5 @@ nav#second ul li a:hover {
     background-color: #111;
 }
 
-body h1 {
-	margin-top: 1em;
-    border: 8px #283747;
-	border-bottom-style: dashed;
-    border-left-style: double;
-	border-right-style: double;
-    border-color: #95A5A6;
-	text-align: center;
-}
 
-body p {
-	font-family: "Bradley Hand ITC", Times, serif;
-	font-size: 22px;
-}
-
-body h1 {
-	font-family: "Bauhaus 93", Times, serif;
-	font-size: 48px;
-}
-
-body h2 {
-	font-family: "Castellar", Times, serif;
-	font-size: 28px;
-}
-
-p#changecolor a {
-	color: white;
-}
 
