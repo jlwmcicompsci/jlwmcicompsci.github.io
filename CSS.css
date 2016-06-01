@@ -13,7 +13,31 @@ body{
 	margin-bottom:5%;
 }
 
-ul {
+body nav#first ul{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+	left: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+body nav#first ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+body nav#first ul li a:hover {
+    background-color: #111;
+}
+
+nav#first ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -25,12 +49,11 @@ ul {
     width: 100%;
 }
 
-
-li {
+nav#first ul li {
     float: left;
 }
 
-li a {
+nav#first ul li a {
     display: block;
     color: white;
     text-align: center;
@@ -38,6 +61,46 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
+nav#first ul li a:hover {
     background-color: #111;
 }
+
+nav#second ul {
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #5D6D7E;
+    margin-top: 4em;
+}
+
+nav#second ul li a {
+    display: block;
+    color: #000;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+
+nav#second ul li a  {
+    background-color: #333;
+    color: white;
+}
+nav#second ul li a:hover {
+    background-color: #111;
+}
+
+body h1 {
+	margin-top: 3em;
+    border: 8px #283747;
+	border-bottom-style: dashed;
+    border-left-style: double;
+	border-right-style: double;
+    border-color: #95A5A6;
+	text-align: center;
+}
+
+body{
+	
+}
+
