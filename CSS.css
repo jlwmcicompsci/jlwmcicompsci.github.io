@@ -114,8 +114,17 @@ body h1 {
 	text-align: center;
 }
 
-body p{
+body p {
 	font-family: "Bradley Hand ITC", Times, serif;
-	
+	font-size: 16px;
+}
+
+body h1 {
+	font-family: "Bauhaus 93", Times, serif;
+	font-size: 26px;
+}
+
+p#changecolor a {
+	color: white;
 }
 
