@@ -36,6 +36,7 @@ body nav#first ul li a {
 body nav#first ul li a:hover {
     background-color: #111;
 }
+<<<<<<< HEAD
 
 nav#first ul {
     list-style-type: none;
@@ -49,6 +50,21 @@ nav#first ul {
     width: 100%;
 }
 
+=======
+
+nav#first ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+	left: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+>>>>>>> origin/master
 nav#first ul li {
     float: left;
 }
@@ -100,7 +116,10 @@ body h1 {
 	text-align: center;
 }
 
+<<<<<<< HEAD
 body{
 	
 }
 
+=======
+>>>>>>> origin/master
