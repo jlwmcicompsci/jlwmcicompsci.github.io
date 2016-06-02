@@ -1,14 +1,6 @@
 
 /* Image, Paragraph and Heading: */
 
-p{
-	color:#F1C40F;
-}
-
-h1 {
-	top: 5px;
-}
-
 img {
 	border-radius:10%;
 }
@@ -32,6 +24,7 @@ body h1 {
 }
 
 body p {
+	color:#F1C40F;
 	font-family: "Bradley Hand ITC", Times, serif;
 	font-size: 22px;
 }
